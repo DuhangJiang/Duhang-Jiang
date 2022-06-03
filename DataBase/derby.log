@@ -1,0 +1,20 @@
+Fri Jun 03 11:14:26 GMT+12:00 2022 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Jun 03 11:14:26 GMT+12:00 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-26b2-cf86-000074907d44 
+on database directory G:\COMP603\COMP603_Assesment_Mazegame\DataBase\MazeGame with class loader sun.misc.Launcher$AppClassLoader@144bcfa 
+Loaded from file:/G:/COMP603/COMP603_Assesment_Mazegame/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_321-b07
+user.dir=G:\COMP603\COMP603_Assesment_Mazegame\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=G:\COMP603\COMP603_Assesment_Mazegame\DataBase
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 03 14:35:42 GMT+12:00 2022: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Jun 03 14:35:43 GMT+12:00 2022:
+Shutting down instance a816c00e-0181-26b2-cf86-000074907d44 on database directory G:\COMP603\COMP603_Assesment_Mazegame\DataBase\MazeGame with class loader sun.misc.Launcher$AppClassLoader@144bcfa 
+----------------------------------------------------------------
